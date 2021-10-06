@@ -10,7 +10,7 @@ An Bitcoin wallet (Private Key, Public Key &amp; Bitcoin Address ) generator fro
   `python3 wallet_generator.py or use any python command which is compatible with your system`
   
 ## Windows
-  `python3 wallet_generator.py or use any python command which is compatible with your system`
+  `py -3 wallet_generator.py or use any python command which is compatible with your system`
   
 ## Mac
   `python3 wallet_generator.py or use any python command which is compatible with your system`
